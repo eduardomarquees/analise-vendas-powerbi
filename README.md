@@ -1,3 +1,10 @@
+##  Dashboard
+
+Visão geral do dashboard desenvolvido:
+
+![Dashboard](dashboard.png)
+
+
 #  Análise de Vendas - Chocolate Sales
 
 ##  Objetivo
@@ -21,10 +28,5 @@ Analisar o desempenho de vendas de chocolates entre 2023 e 2024, identificando p
 - Houve queda significativa nas vendas em novembro.
 - O crescimento mensal apresenta variações ao longo do período.
 
-##  Dashboard
-
-Visão geral do dashboard desenvolvido:
-
-![Dashboard](dashboard.png)
 
 
