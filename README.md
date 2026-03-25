@@ -1,4 +1,4 @@
-##  Dashboard
+##  Dashboard interativo desenvolvido no Power BI:
 
 Visão geral do dashboard desenvolvido:
 
